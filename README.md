@@ -75,7 +75,7 @@ The *Navigator* translates instructions, history, and screenshots into structure
 
 <div align="center">
   <p><b>High-level Task</b></p>
-  <img src="assets/res_high.png" alt="high-level task" width="100%">
+  <img src="assets/res_high.png" alt="high-level task" width="85%">
   <p><b>Low-level Tasks</b></p>
 
 | ![](assets/res_low.png) | ![](assets/res_low2.png) |
@@ -87,7 +87,7 @@ The *Navigator* translates instructions, history, and screenshots into structure
 The *Teacher* provides a concise outline of the problem-solving approach, while the *Student* generates the final solution by following this guidance. This separation of roles enables structured reasoning and improves overall solution quality.
 
 <div align="center">
-  <img src="assets/res_math.png" alt="" style="width: 100%;">
+  <img src="assets/res_math.png" alt="" style="width: 85%;">
 </div>
 
 ## 🏁 Getting Started
