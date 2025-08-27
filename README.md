@@ -69,6 +69,27 @@ All codes, models, and datasets are publicly available:
 
 </div>
 
+#### SWIRL-GUI
+
+The *Navigator* translates instructions, history, and screenshots into structured low-level instructions (LLI), while the *Interactor* executes them as atomic actions (click, scroll, text input) with precise grounding. This hierarchical design enhances robustness, generalization, and interpretability.
+
+<div align="center">
+  <p><b>High-level Task</b></p>
+  <img src="assets/res_high.png" alt="high-level task" width="100%">
+  <p><b>Low-level Tasks</b></p>
+
+| ![](assets/res_low.png) | ![](assets/res_low2.png) |
+|--------------------------|--------------------------|
+</div>
+
+#### SWIRL-MATH
+
+The *Teacher* provides a concise outline of the problem-solving approach, while the *Student* generates the final solution by following this guidance. This separation of roles enables structured reasoning and improves overall solution quality.
+
+<div align="center">
+  <img src="assets/res_math.png" alt="" style="width: 100%;">
+</div>
+
 ## 🏁 Getting Started
 
 ### 📦 Installation
