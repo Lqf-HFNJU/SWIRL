@@ -22,6 +22,17 @@
 </div>
 
 
+<div align="center">
+
+### "Chaos isn't a pit. Chaos is a ladder." — *Petyr Baelish, Game of Thrones, Season 3, Episode 6*
+
+</div>
+<div align="center">
+ 
+### SWIRL climbs the same way.
+</div>
+
+
 
 ---
 
