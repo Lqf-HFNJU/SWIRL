@@ -1,0 +1,13 @@
+{
+    "executor_agent_urls": [
+        "http://10.140.60.7:10030/v1",
+        "http://10.140.60.7:10031/v1",
+        "http://10.140.60.7:10032/v1",
+        "http://10.140.60.7:10033/v1",
+        "http://10.140.60.7:10034/v1",
+        "http://10.140.60.7:10035/v1",
+        "http://10.140.60.7:10036/v1",
+        "http://10.140.60.7:10037/v1"
+    ],
+    "executor_agent_path": "./checkpoints/hf/SWIRL_GUI/interactor_round_1"
+}

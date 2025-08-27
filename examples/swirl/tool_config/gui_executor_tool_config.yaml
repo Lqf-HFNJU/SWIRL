@@ -1,0 +1,19 @@
+tools:
+  - class_name: "verl.tools.executing_tool.ExecutingTool"
+    config: 
+      type: native
+      executor_agent_config: ./examples/swirl/tool_config/executor_agent_config.json
+      max_tries: 5
+      
+    tool_schema:
+      type: "function"
+      function:
+        name: "executor_agent"
+        description: "an Executor Agent capable of executing fine-grained instruction"
+        parameters:
+          type: "object"
+          properties:
+            instruction:
+              type: "string"
+              description:  "A clear and precise fine-grained instruction for the executor agent"
+          required: ["instruction"]
