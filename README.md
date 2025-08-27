@@ -100,6 +100,7 @@ Please refer to [this](examples/README.md).
 We gratefully acknowledge the open-source projects that made this work possible: [VeRL](https://github.com/volcengine/verl), [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [vLLM](https://github.com/vllm-project/vllm), and [SGLang](https://github.com/sgl-project/sglang).
 
 ## 🖊️ Citation 
+If you feel SWIRL useful in your project or research, please kindly use the following BibTeX entry to cite our paper. Thanks!
 
 ```
 
