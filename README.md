@@ -16,7 +16,7 @@
 <div align="center">
 <p align="center">
   📖<a href="https://github.com/Lqf-HFNJU/SWIRL/blob/main/assets/SWIRL.pdf">Paper</a> |
-  🤗<a href="https://huggingface.co/collections/hflqf88888/swirl-68af365e66fc554a8ff310b6">SWIRL-GUI</a> |
+  🤗<a href="https://huggingface.co/collections/hflqf88888/swirl-68af365e66fc554a8ff310b6">SWIRL</a> |
    📊<a href="https://huggingface.co/datasets/hflqf88888/SWIRL_GUI_data">Dataset</a>
 </p>
 </div>
