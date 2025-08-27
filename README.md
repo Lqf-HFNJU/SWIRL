@@ -74,7 +74,7 @@ All codes, models, and datasets are publicly available:
 The *Navigator* translates instructions, history, and screenshots into structured low-level instructions (LLI), while the *Interactor* executes them as atomic actions (click, scroll, text input) with precise grounding. This hierarchical design enhances robustness, generalization, and interpretability.
 
 <div align="center">
-  <p><b>High-level Task</b></p>
+  <p><b>High-level Tasks</b></p>
   <img src="assets/res_high.png" alt="high-level task" width="85%">
   <p><b>Low-level Tasks</b></p>
 
