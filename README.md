@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# [SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control](https://arxiv.org/pdf/2406.08451)  
+# [SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control](assets/SWIRL.pdf)  
  Quanfeng Lu⭐️, Zhantao Ma⭐️, Shuai Zhong, Jin Wang, Dahai Yu, Michael K. Ng, Ping Luo✉️   
  ⭐️ Equal Contribution  ✉️ Corresponding Author
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 <p align="center">
-  📖<a href="https://arxiv.org/pdf/2406.08451">Paper</a> |
+  📖<a href="https://github.com/Lqf-HFNJU/SWIRL/blob/main/assets/SWIRL.pdf">Paper</a> |
   🤗<a href="https://huggingface.co/hflqf88888/SWIRL_GUI">SWIRL-GUI</a> |
    📊<a href="https://huggingface.co/datasets/hflqf88888/SWIRL_GUI_data">Dataset</a>
 </p>
