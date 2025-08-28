@@ -136,5 +136,13 @@ We gratefully acknowledge the open-source projects that made this work possible:
 If you feel SWIRL useful in your project or research, please kindly use the following BibTeX entry to cite our paper. Thanks!
 
 ```
-
+@misc{lu2025swirlstagedworkflowinterleaved,
+      title={SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control}, 
+      author={Quanfeng Lu and Zhantao Ma and Shuai Zhong and Jin Wang and Dahai Yu and Michael K. Ng and Ping Luo},
+      year={2025},
+      eprint={2508.20018},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2508.20018}, 
+}
 ```
