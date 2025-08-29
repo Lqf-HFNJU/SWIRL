@@ -6,8 +6,8 @@
 #SBATCH --gres=gpu:8
 #SBATCH --cpus-per-task=120
 #SBATCH --quotatype reserved
-#SBATCH -o log/swirl.out
-#SBATCH -e log/swirl.err
+#SBATCH -o swirl.out
+#SBATCH -e swirl.err
 
 set -x
 set -euo pipefail
