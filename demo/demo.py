@@ -81,8 +81,8 @@ def build_interactor_prompt(nav_instruction: str) -> str:
 
 
 if __name__ == "__main__":
-    NAVIGATOR_PATH = "/mnt/data/luquanfeng/model/SWIRL/Navigator"
-    INTERACTOR_PATH = "/mnt/data/luquanfeng/model/SWIRL/Interactor"
+    NAVIGATOR_PATH = "/path/to/Navigator"
+    INTERACTOR_PATH = "/path/to/Interactor"
 
     COMMON_INIT_KW = dict(
         dtype="bfloat16",
