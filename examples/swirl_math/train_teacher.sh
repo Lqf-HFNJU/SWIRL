@@ -29,7 +29,7 @@ python3 -m verl.trainer.main_ppo \
     data.train_files=$TRAIN_FILE \
     data.val_files=$VAL_FILE \
     data.train_batch_size=64 \
-    data.max_prompt_length=2048 \
+    data.max_prompt_length=1024 \
     data.max_response_length=200 \
     data.filter_overlong_prompts=True \
     +online_reweighting.lb=0.2 \
