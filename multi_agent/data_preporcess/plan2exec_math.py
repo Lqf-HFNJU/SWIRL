@@ -90,8 +90,8 @@ def planner2executor(filepath: str, savepath: str, response_key: str):
 
 def get_args():
     parser = argparse.ArgumentParser(description="Convert planner dataset to executor dataset.")
-    parser.add_argument("--filepath", type=str, default='/mnt/petrelfs/luquanfeng/GUIMultiAgent/data/test/par/ac/gpt-4o.parquet')
-    parser.add_argument("--savepath", type=str, default='/mnt/petrelfs/luquanfeng/GUIMultiAgent/data/test/gpt_generate/ac_gpt-4o.parquet')
+    parser.add_argument("--filepath", type=str)
+    parser.add_argument("--savepath", type=str)
     parser.add_argument("--response_key", type=str, default="responses", help="Key in the dataset containing the response.")
     
     return parser.parse_args()
